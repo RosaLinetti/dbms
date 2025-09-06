@@ -1,7 +1,7 @@
 # 🎓 Student Records Database (SQL Project)
 
 ## 📌 Overview
-This project is a *relational database management system (RDBMS)* built using *MySQL*.  
+This project is a *relational database management system (RDBMS)* built using *MySQL*. This was for my DBMS mini project under 5th sem syllabus. 
 It demonstrates:
 - Database schema design
 - Data insertion
