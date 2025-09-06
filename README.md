@@ -12,8 +12,12 @@ It demonstrates:
 The project  can be expanded further.
 
 
-## ⚙️ Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/student-records-db.git
-   cd student-records-db
+ Features
+
+. Student, Course, Faculty, Department, and Grade management
+
+. Complex queries with INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN (via UNION)
+
+. Normalized database design up to Third Normal Form (3NF)
+
+. Transaction handling with COMMIT and ROLLBACK
