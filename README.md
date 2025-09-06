@@ -12,7 +12,7 @@ It demonstrates:
 The project  can be expanded further.
 
 
- Features
+## Features
 
 . Student, Course, Faculty, Department, and Grade management
 
